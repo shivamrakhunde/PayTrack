@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author shivam
+ * @author shiva
  */
 public class newBuyer extends javax.swing.JFrame {
 

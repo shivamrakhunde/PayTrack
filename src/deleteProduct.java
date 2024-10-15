@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author shivam
+ * @author shiva
  */
 public class deleteProduct extends javax.swing.JFrame {
 

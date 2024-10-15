@@ -5,7 +5,7 @@
 
 /**
  *
- * @author shivam
+ * @author shiva
  */
 import ConnectionPackage.ConnectionProvider;
 import java.sql.*;

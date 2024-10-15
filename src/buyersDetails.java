@@ -16,7 +16,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author shivam
+ * @author shiva
  */
 public class buyersDetails extends javax.swing.JFrame {
 

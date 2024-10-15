@@ -10,7 +10,7 @@ import java.sql.*;
 
 /**
  *
- * @author shivam
+ * @author shiva
  */
 public class newProduct extends javax.swing.JFrame {
 

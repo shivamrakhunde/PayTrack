@@ -20,7 +20,7 @@ import org.jdom.CDATA;
 
 /**
  *
- * @author shivam
+ * @author shiva
  */
 public class billing extends javax.swing.JFrame {
 

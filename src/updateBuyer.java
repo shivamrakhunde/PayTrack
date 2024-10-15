@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author shivam
+ * @author shiva
  */
 public class updateBuyer extends javax.swing.JFrame {
 

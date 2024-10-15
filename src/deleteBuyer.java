@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author shivam
+ * @author shiva
  */
 public class deleteBuyer extends javax.swing.JFrame {
 
